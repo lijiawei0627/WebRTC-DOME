@@ -100,7 +100,7 @@ function getParams(queryName) {
 }
 
 export default {
-  name: "demo1",
+  name: "call",
   data() {
     return {
       linkSocket: "",

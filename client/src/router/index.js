@@ -6,9 +6,9 @@ Vue.use(Router)
 
 let routes =  [
 	{
-	  path: '/demo1',
-	  name: 'demo1',
-	  component: () => import("@/views/demo1"),
+	  path: '/call',
+	  name: 'call',
+	  component: () => import("@/views/call"),
 	}
 ]
 
